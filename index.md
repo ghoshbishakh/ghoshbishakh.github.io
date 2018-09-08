@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bishakh Ghosh
-subtitle: NIT Durgapur
+subtitle: IIT Kharagpur
 sitemap:
   priority: 0.9
 ---
@@ -9,7 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/dp.png' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>I love software development and research. The tools I generally use are Python, Django, Java, HTML5, CSS3, bootstrap, JavaScript, JQuery, C…. and many more here and there.</p>
     <p>My current areas of interest are blockchains, secure multiparty computing, computer networks and web technology.</p>
 	<p><strong><a target="_blank" href="https://scholar.google.co.in/citations?user=5kBZSVkAAAAJ&hl=en">Google Scholar</a> | <a target="_blank" href="https://dblp.uni-trier.de/pers/hd/g/Ghosh:Bishakh_Chandra">DBLP</a> | <a target="_blank" href="https://github.com/ghoshbishakh">GitHub</a></strong></p>
 </div>
@@ -18,6 +17,14 @@ sitemap:
 <br>
 
 ### EDUCATION
+
+**Indian Institute of Technology Kharagpur** <span style="float: right; ">2018 - Present</span>  
+
+PhD <span style="float: right; ">Blockchains and MPC</span>
+
+Department of Computer Science and Engineering
+
+<hr>
 
 **National Institute of Technology Durgapur** <span style="float: right; ">2014 - 2018</span>  
 
