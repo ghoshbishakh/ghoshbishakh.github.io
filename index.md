@@ -92,6 +92,8 @@ Design and implementation of a peer to peer sync tool in python pSync.
 **ACM CHANTS** - Partha Sarathi Paul, Bishakh Chandra Ghosh, Kingshuk De, Sujoy Saha, Subrata Nandi, and Sandip  Chakraborty. *[Demo: pSync: A Peer-to-peer Sync Tool for Challenged Networks.](https://doi.org/10.1145/2799371.2799375)*
 <hr>
 
+**ICDCN 19 Workshops - EmeRTeS** - Partha Sarathi Paul, Chandrika Mukherjee, Bishakh Chandra Ghosh, Sudipta Pandit, Sujoy Saha, Subrata Nandi *[On Designing a Fast-Deployable 'Localized' GIS Platform for using 'Offline' during Post-Disaster Situation](#)*
+<hr>
 
 <!-- ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
