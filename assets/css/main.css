@@ -169,11 +169,13 @@
 
 /* =Main Page *//*************************************************************/
   #about-img {
-    border-radius: 13%;
-    max-width: 180px;
-    margin: auto;
-    margin-bottom: 3%;
-  }
+	border-radius: 50%;
+	max-width: 214px;
+	margin: auto;
+	margin-bottom: 3%;
+	border: solid;
+	border-color: #1da085;
+}
 
   #describe-text {
       display: block;
