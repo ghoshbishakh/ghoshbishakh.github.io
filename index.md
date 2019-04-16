@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/dp.png' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/dp.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
     <p>My current areas of interest are blockchains, secure multiparty computing, computer networks and web technology.</p>
