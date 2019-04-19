@@ -9,7 +9,7 @@ sitemap:
 <img src="{{ '/assets/img/dp.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-    <p>My current areas of interest are blockchains, secure multiparty computing, computer networks and web technology.</p>
+    <p>My current areas of interest are federated learning, blockchains, secure multiparty computing, distributed systems.</p>
 	<p><strong><a target="_blank" href="https://scholar.google.co.in/citations?user=5kBZSVkAAAAJ&hl=en">Google Scholar</a> | <a target="_blank" href="https://dblp.uni-trier.de/pers/hd/g/Ghosh:Bishakh_Chandra">DBLP</a> | <a target="_blank" href="https://github.com/ghoshbishakh">GitHub</a></strong></p>
 </div>
 
