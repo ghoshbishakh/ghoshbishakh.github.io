@@ -47,6 +47,27 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 <br>
 
 
+### PUBLICATIONS
+
+**IEEE CLOUD 2019** - Sourav Kanti Addya, Anurag Satpathy, Bishakh Chandra Ghosh, Sandip Chakraborty and Soumya K. Ghosh *[ Power and Time aware VM Migration for Multi-tier Applications over Geo-distributed Clouds](#)*
+<hr>
+
+**IEEE SCC 2019** - Bishakh Chandra Ghosh, Sourav Kanti Addya, Anurag Satpathy, Soumya K. Ghosh and Sandip Chakraborty *[Towards a Democratic Federation for Infrastructure Service Provisioning](#)*
+<hr>
+
+**COMSNETS 2016** - Partha Sarathi Paul, Bishakh Chandra Ghosh, Kingshuk De, Sujoy Saha, Subrata Nandi, Indrajit Bhattacharya and Sandip Chakraborty.  *[On design and implementation of a scalable and reliable Sync system for delay tolerant challenged networks](https://doi.org/10.1109/COMSNETS.2016.7439949)*
+<hr>
+
+**ACM SIGSPATIAL Workshop - EM-GIS 2016** - Partha Sarathi Paul, Hridoy Sankar Dutta, Bishakh Chandra Ghosh, Krishnandu Hazra, Sandip Chakraborty, Sujoy Saha, Subrata Nandi. *[Offline crisis mapping by opportunistic dissemination of crisis data after large-scale disasters](https://doi.org/10.1145/3017611.3017620)*
+<hr>
+
+**ACM CHANTS** - Partha Sarathi Paul, Bishakh Chandra Ghosh, Kingshuk De, Sujoy Saha, Subrata Nandi, and Sandip  Chakraborty. *[Demo: pSync: A Peer-to-peer Sync Tool for Challenged Networks.](https://doi.org/10.1145/2799371.2799375)*
+<hr>
+
+**ICDCN 19 Workshops - EmeRTeS** - Partha Sarathi Paul, Chandrika Mukherjee, Bishakh Chandra Ghosh, Sudipta Pandit, Sujoy Saha, Subrata Nandi *[On Designing a Fast-Deployable 'Localized' GIS Platform for using 'Offline' during Post-Disaster Situation](https://dl.acm.org/citation.cfm?id=3295592)*
+<hr>
+
+
 ### EXPERIENCE
 
 **Cityprobe Project NIT Durgapur** - Project Student Associate <span style="float: right; ">Dec 2017 - May 2018</span>  
@@ -79,25 +100,6 @@ Winter Intern <span style="float: right; ">2014-15</span>
 Design and implementation of a peer to peer sync tool in python pSync.
 
 <br>
-
-
-### PUBLICATIONS
-
-**COMSNETS 2016** - Partha Sarathi Paul, Bishakh Chandra Ghosh, Kingshuk De, Sujoy Saha, Subrata Nandi, Indrajit Bhattacharya and Sandip Chakraborty.  *[On design and implementation of a scalable and reliable Sync system for delay tolerant challenged networks](https://doi.org/10.1109/COMSNETS.2016.7439949)*
-<hr>
-
-**ACM SIGSPATIAL Workshop - EM-GIS 2016** - Partha Sarathi Paul, Hridoy Sankar Dutta, Bishakh Chandra Ghosh, Krishnandu Hazra, Sandip Chakraborty, Sujoy Saha, Subrata Nandi. *[Offline crisis mapping by opportunistic dissemination of crisis data after large-scale disasters](https://doi.org/10.1145/3017611.3017620)*
-<hr>
-
-**ACM CHANTS** - Partha Sarathi Paul, Bishakh Chandra Ghosh, Kingshuk De, Sujoy Saha, Subrata Nandi, and Sandip  Chakraborty. *[Demo: pSync: A Peer-to-peer Sync Tool for Challenged Networks.](https://doi.org/10.1145/2799371.2799375)*
-<hr>
-
-**IEEE SCC 2019** - Bishakh Chandra Ghosh, Sourav Kanti Addya, Anurag Satpathy, Soumya K. Ghosh and Sandip Chakraborty *[Towards a Democratic Federation for Infrastructure Service Provisioning](#)*
-<hr>
-
-**ICDCN 19 Workshops - EmeRTeS** - Partha Sarathi Paul, Chandrika Mukherjee, Bishakh Chandra Ghosh, Sudipta Pandit, Sujoy Saha, Subrata Nandi *[On Designing a Fast-Deployable 'Localized' GIS Platform for using 'Offline' during Post-Disaster Situation](https://dl.acm.org/citation.cfm?id=3295592)*
-<hr>
-
 
 <!-- ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
