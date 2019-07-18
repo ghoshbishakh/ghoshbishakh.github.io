@@ -69,16 +69,21 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 
 
 ### EXPERIENCE
+**Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
+Networks Lab (Spring 2019)
+ Advances in Operating Systems Design (Autumn 2019)
 
-**Cityprobe Project NIT Durgapur** - Project Student Associate <span style="float: right; ">Dec 2017 - May 2018</span>  
+<hr>
+
+**Cityprobe Project NIT Durgapur** - Project Student Associate <span style="float: right; ">Dec 2017 - May 2018</span>
 Opportunistic data dissemination through challenged networks
 <hr>
 
-**MAQ Software** - Software Intern <span style="float: right; ">May 2017 - Jun 2017</span>  
+**MAQ Software** - Software Intern <span style="float: right; ">May 2017 - Jun 2017</span>
 Design and implement Microsoft Returns Dashboard using TSQL, ASP, and Power BI.
 <hr>
 
-**Google Summer of Code** - Python Software Foundation <span style="float: right; ">May 2016 - Aug 2016</span>  
+**Google Summer of Code** - Python Software Foundation <span style="float: right; ">May 2016 - Aug 2016</span>
 Custom content management system using Django and content aggregation system for automatic inte-
 gration of documentation of Dipy in the Dipy webite.
 <hr>
@@ -114,6 +119,7 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 
 ### ACHIEVEMENTS
 
+- Received Microsoft Travel Grant for attending IEEE SCC 2019 
 - First runners up in Smart India Hackathon 2017 under ministry of AICTE
 - Spot Award winner at MAQ Software for good performance and fast delivery
 - Completed Google Summer of Code 2016
