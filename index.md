@@ -9,7 +9,7 @@ sitemap:
 <img src="{{ '/assets/img/dp.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-    <p>My current areas of interest are federated learning, blockchains, secure multiparty computing, distributed systems.</p>
+    <p>My current areas of interest are distributed systems, cloud computing, computer networks.</p>
 	<p><strong><a target="_blank" href="https://scholar.google.co.in/citations?user=5kBZSVkAAAAJ&hl=en">Google Scholar</a> | <a target="_blank" href="https://dblp.uni-trier.de/pers/hd/g/Ghosh:Bishakh_Chandra">DBLP</a> | <a target="_blank" href="https://github.com/ghoshbishakh">GitHub</a></strong></p>
 </div>
 
@@ -48,6 +48,9 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 
 
 ### PUBLICATIONS
+
+**Journal of Network and Computer Applications** - P. S. Paul, Bishakh Chandra Ghosh, Hridoy Datta, Kingshuk De, Arka Prava Basu, Prithviraj Pramanik, Sujoy Saha, Sandip Chakraborty, Niloy Ganguly, Subrata Nandi *[CRIMP: Here crisis mapping goes offline](https://doi.org/10.1016/j.jnca.2019.102418)*
+<hr>
 
 **IEEE CLOUD 2019** - Sourav Kanti Addya, Anurag Satpathy, Bishakh Chandra Ghosh, Sandip Chakraborty and Soumya K. Ghosh *[ Power and Time aware VM Migration for Multi-tier Applications over Geo-distributed Clouds](#)*
 <hr>
