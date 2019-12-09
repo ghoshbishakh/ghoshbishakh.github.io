@@ -52,10 +52,10 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 **Journal of Network and Computer Applications** - P. S. Paul, Bishakh Chandra Ghosh, Hridoy Datta, Kingshuk De, Arka Prava Basu, Prithviraj Pramanik, Sujoy Saha, Sandip Chakraborty, Niloy Ganguly, Subrata Nandi *[CRIMP: Here crisis mapping goes offline](https://doi.org/10.1016/j.jnca.2019.102418)*
 <hr>
 
-**IEEE CLOUD 2019** - Sourav Kanti Addya, Anurag Satpathy, Bishakh Chandra Ghosh, Sandip Chakraborty and Soumya K. Ghosh *[ Power and Time aware VM Migration for Multi-tier Applications over Geo-distributed Clouds](#)*
+**IEEE CLOUD 2019** - Sourav Kanti Addya, Anurag Satpathy, Bishakh Chandra Ghosh, Sandip Chakraborty and Soumya K. Ghosh *[ Power and Time aware VM Migration for Multi-tier Applications over Geo-distributed Clouds](https://ieeexplore.ieee.org/document/8814578)*
 <hr>
 
-**IEEE SCC 2019** - Bishakh Chandra Ghosh, Sourav Kanti Addya, Anurag Satpathy, Soumya K. Ghosh and Sandip Chakraborty *[Towards a Democratic Federation for Infrastructure Service Provisioning](#)*
+**IEEE SCC 2019** - Bishakh Chandra Ghosh, Sourav Kanti Addya, Anurag Satpathy, Soumya K. Ghosh and Sandip Chakraborty *[Towards a Democratic Federation for Infrastructure Service Provisioning](https://ieeexplore.ieee.org/document/8813913)*  | [PDF](/assets/CloudChain.pdf) | [Presentation](/assets/CloudChainPPT.pdf)
 <hr>
 
 **COMSNETS 2016** - Partha Sarathi Paul, Bishakh Chandra Ghosh, Kingshuk De, Sujoy Saha, Subrata Nandi, Indrajit Bhattacharya and Sandip Chakraborty.  *[On design and implementation of a scalable and reliable Sync system for delay tolerant challenged networks](https://doi.org/10.1109/COMSNETS.2016.7439949)*
