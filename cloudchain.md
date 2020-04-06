@@ -4,6 +4,10 @@ title: CloudChain
 subtitle: Blockchain based Decentralized Cloud Federation Marketplace
 ---
 
+Publication: **IEEE SCC 2019** - Bishakh Chandra Ghosh, Sourav Kanti Addya, Anurag Satpathy, Soumya K. Ghosh and Sandip Chakraborty *[Towards a Democratic Federation for Infrastructure Service Provisioning](https://ieeexplore.ieee.org/document/8813913)*  | [PDF](/assets/CloudChain.pdf) | [Presentation](/assets/CloudChainPPT.pdf)
+<hr>
+
+
 ## Cloud Federations
 
 Cloud Federations are collaborations among different Cloud Service Providers (CSPs), whereby they agree to mutually share their own resources for their overall benefit. It has several advantages such as:
@@ -53,3 +57,6 @@ The high level operations that the CSPs can perform on the exchange are:
 
 
 We implemented the system using Hyperledger Fabric and evaluated its performance in a tetbed setup. The results show that there is marginal overhead in resource provisioning time due to blockchain transaction processing latency, however we gain in terms of transparency in the federation processes. We also see some interesting results due to the fact that user request scheduling is now not done by a centralized broker, but by individual CSPs. This brings increased fairness to the scheduling process because of the decentralized CloudChain architecture. 
+
+![cloud chain testbed and results](/assets/cloudchain/results.jpg)
+
