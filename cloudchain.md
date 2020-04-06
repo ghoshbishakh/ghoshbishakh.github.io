@@ -27,22 +27,29 @@ However, the existing federation architectures are all centralized, and based on
 ![broker based federation](/assets/cloudchain/brokerbased.png)
 
 
-### Objective
+## Objective
 
-#### Remove the central brokerand design a transparent distributed system for cloud federation.
+### Remove the central brokerand design a transparent distributed system for cloud federation.
 
 ![centralized to decentralized federation](/assets/cloudchain/centralizedtodecentralized.png)
 
 
-### Challenges
+## Challenges
 
 * A decentralized platform for exchange of infrastructure resources (VM) must be developed.
 * The system must allow coordination between service providers while enforcing FLA, without the help of any broker.
 * Cloud functions such as VM Placement and VM Migration needs to be coordinated over the decentralized architecture.
 * Fair ordering of transactions must be ensured
 
-### Proposed Solution
-#### Permissioned blockchain based decentralized exchange for democratic cloud federations: CloudChain
+## Proposed Solution
+### Permissioned blockchain based decentralized exchange for democratic cloud federations: CloudChain
 ![cloud chain architecture](/assets/cloudchain/architecture.png)
 
+CloudChain is a permissioned blockchain based decentralized marketplace where CSPs can exchange their resources without the invvolvement of any federation broker.
 
+The high level operations that the CSPs can perform on the exchange are:
+
+(1) Offer a new resource (2) Modify an existing offering (3) Query for available resources offerings (4) Request to rent a resource (5) Grant/Reject a request
+
+
+We implemented the system using Hyperledger Fabric and evaluated its performance in a tetbed setup. The results show that there is marginal overhead in resource provisioning time due to blockchain transaction processing latency, however we gain in terms of transparency in the federation processes. We also see some interesting results due to the fact that user request scheduling is now not done by a centralized broker, but by individual CSPs. This brings increased fairness to the scheduling process because of the decentralized CloudChain architecture. 
