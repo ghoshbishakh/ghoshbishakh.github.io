@@ -24,14 +24,14 @@ However, the existing federation architectures are all centralized, and based on
 4. Unfair dispute resolution
 5. Central point of failure
 
-![cloudfederation](/assets/cloudchain/brokerbased.png)
+![broker based federation](/assets/cloudchain/brokerbased.png)
 
 
 ### Objective
 
 #### Remove the central brokerand design a transparent distributed system for cloud federation.
 
-![broker based federation](/assets/cloudchain/centralizedtodecentralized.png)
+![centralized to decentralized federation](/assets/cloudchain/centralizedtodecentralized.png)
 
 
 ### Challenges
@@ -43,6 +43,6 @@ However, the existing federation architectures are all centralized, and based on
 
 ### Proposed Solution
 #### Permissioned blockchain based decentralized exchange for democratic cloud federations: CloudChain
-![centralized to decentralized federation](/assets/cloudchain/centralizedtodecentralized.png)
+![cloud chain architecture](/assets/cloudchain/architecture.png)
 
 
