@@ -13,6 +13,8 @@ Cloud Federations are collaborations among different Cloud Service Providers (CS
 * Bringing services closer to customers by maximizing the geographical dispersion.
 * Tackling data protection laws that requires data to be stored within country’s boundary.
 
+![cloudfederation]("/assets/cloudchain/federation.png")
+
 
 However, the existing federation architectures are all centralized, and based on a central agent called the federation broker. All the federation activities like scheduling of user requests, billing, dispute resolution, profit sharing etc., are handled by this single trusted agent. This introduces several limitations such as:
 
