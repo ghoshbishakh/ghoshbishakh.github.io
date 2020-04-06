@@ -49,7 +49,7 @@ However, the existing federation architectures are all centralized, and based on
 ### Permissioned blockchain based decentralized exchange for democratic cloud federations: CloudChain
 ![cloud chain architecture](/assets/cloudchain/architecture.png)
 
-CloudChain is a permissioned blockchain based decentralized marketplace where CSPs can exchange their resources without the invvolvement of any federation broker.
+CloudChain is a permissioned blockchain based decentralized marketplace where CSPs can exchange their resources without the involvement of any federation broker.
 
 The high level operations that the CSPs can perform on the exchange are:
 
