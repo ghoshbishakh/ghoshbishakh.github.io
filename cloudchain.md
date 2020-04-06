@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CloudChain
-subtitle: Decentralized Cloud Federation Marketplace
+subtitle: Blockchain based Decentralized Cloud Federation Marketplace
 ---
 
 ## Cloud Federations
@@ -13,7 +13,7 @@ Cloud Federations are collaborations among different Cloud Service Providers (CS
 * Bringing services closer to customers by maximizing the geographical dispersion.
 * Tackling data protection laws that requires data to be stored within country’s boundary.
 
-![cloudfederation]("/assets/cloudchain/federation.png")
+![cloudfederation](/assets/cloudchain/federation.png)
 
 
 However, the existing federation architectures are all centralized, and based on a central agent called the federation broker. All the federation activities like scheduling of user requests, billing, dispute resolution, profit sharing etc., are handled by this single trusted agent. This introduces several limitations such as:
@@ -24,10 +24,15 @@ However, the existing federation architectures are all centralized, and based on
 4. Unfair dispute resolution
 5. Central point of failure
 
+![cloudfederation](/assets/cloudchain/brokerbased.png)
+
 
 ### Objective
 
 #### Remove the central brokerand design a transparent distributed system for cloud federation.
+
+![broker based federation](/assets/cloudchain/centralizedtodecentralized.png)
+
 
 ### Challenges
 
@@ -38,3 +43,6 @@ However, the existing federation architectures are all centralized, and based on
 
 ### Proposed Solution
 #### Permissioned blockchain based decentralized exchange for democratic cloud federations: CloudChain
+![centralized to decentralized federation](/assets/cloudchain/centralizedtodecentralized.png)
+
+
