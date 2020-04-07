@@ -10,6 +10,7 @@ sitemap:
 
 <div id="describe-text">
     <p>My current areas of interest are distributed systems, cloud computing, computer networks.</p>
+	<p>I am working under the supervision of <a href="https://cse.iitkgp.ac.in/~sandipc/" target="_blank">Dr. Sandip Chakraborty</a></p>
 	<p><strong><a target="_blank" href="https://scholar.google.co.in/citations?user=5kBZSVkAAAAJ&hl=en">Google Scholar</a> | <a target="_blank" href="https://dblp.uni-trier.de/pers/hd/g/Ghosh:Bishakh_Chandra">DBLP</a> | <a target="_blank" href="https://github.com/ghoshbishakh">GitHub</a></strong></p>
 </div>
 
