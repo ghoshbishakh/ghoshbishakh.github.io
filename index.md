@@ -88,8 +88,8 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 
 ### EXPERIENCE
 **Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
-Networks Lab (Spring 2019)
- Advances in Operating Systems Design (Autumn 2019)
+Networks Lab (Spring 2019, Spring 2020)<br>
+Advances in Operating Systems Design (Autumn 2019, Autumn 2020)
 
 <hr>
 
