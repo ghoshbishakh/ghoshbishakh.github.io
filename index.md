@@ -50,6 +50,10 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 
 ### PUBLICATIONS
 
+**IEEE ICBC 2021 (accepted)** - Bishakh Chandra Ghosh, Venkataraman Ramakrishna (IBM Research, India), Chander Govindarajan (IBM Research, India), Dushyant Behl (IBM Research, India), Dileban Karunamoorthy (IBM Research, Australia), Ermyas Abebe (IBM Research, Australia), Sandip Chakraborty (IITKGP) *[Decentralized Cross-Network Identity Management for Blockchain Interoperation](#)*
+<hr>
+
+
 **IEEE INFOCOM 2021 (accepted)** - Bishakh Chandra Ghosh, Tanay Bhartia, Sourav Kanti Addya, Sandip Chakraborty *[Leveraging Public-Private Blockchain Interoperability for Closed Consortium Interfacing](#)*
 <hr>
 
