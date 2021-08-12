@@ -142,9 +142,15 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 ### ACHIEVEMENTS
 
 - Received Microsoft Travel Grant for attending IEEE SCC 2019 
-- First runners up in Smart India Hackathon 2017 under ministry of AICTE
+- First runners up in Smart India Hackathon 2017 under AICTE
 - Spot Award winner at MAQ Software for good performance and fast delivery
 - Completed Google Summer of Code 2016
 - Won winter intern award for remarkable performance (winter 2014-15) at project DISARM, NIT Durgapur
 - First Position obtained at Socket Combat event, at Technoshine 2014, NIT Durgapur by implementing a multicast chat program.
 - Led a 3-tier team of 50 people as Technical Head, GNU Linux Users’ Group
+
+
+### Bio
+
+Bishakh has completed his B.Tech from NIT Durgapur on 2018. He is currently working towards his PhD from IIT Kharagpur under the supervision of Dr. Sandip Chakraborty. His area of interest includes blockchains, distributed systems, cloud computing, and computer networks. He has published more than 10 papers in this short duration including some of the prestigious conferences like IEEE INFOCOM, ACM SIGCOMM, Mobile HCI, IEEE SCC, etc.. He has two US patents in blockchains. He has received Microsoft Travel Grant for attending IEEE SCC 2019. He is enjoys programing. During his B.Tech, he participated in various Hackathons and coding competitions. He completed Google Summer of Code in 2016 under Python Software Foundation. He led his team in Smart India Hackathon 2017 to achieve second place. He has also won Spot Award from MAQ Software, winter intern award from NIT Durgapur. He was technical lead of a 3-tier team of 50 people in GNU Linux Users’ Group. He can be reached through the following website. https://ghoshbishakh.github.io/
+
