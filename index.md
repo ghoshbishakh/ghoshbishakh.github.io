@@ -37,7 +37,7 @@ Department of Information Technology
  
 **Higher Secondary School** <span style="float: right; ">2012-2014</span>  
 
-Nava Nalanda Santiniketan <span style="float: right; ">88.88%</span>
+Nava Nalanda Santiniketan <span style="float: right; ">88.8%</span>
 
 <hr>
 
@@ -50,19 +50,19 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 
 ### PUBLICATIONS
 
-**IEEE ICBC 2021 (accepted)** - Bishakh Chandra Ghosh, Venkataraman Ramakrishna (IBM Research, India), Chander Govindarajan (IBM Research, India), Dushyant Behl (IBM Research, India), Dileban Karunamoorthy (IBM Research, Australia), Ermyas Abebe (IBM Research, Australia), Sandip Chakraborty (IITKGP) *[Decentralized Cross-Network Identity Management for Blockchain Interoperation](#)*
+**IEEE ICBC 2021** - Bishakh Chandra Ghosh, Venkataraman Ramakrishna (IBM Research, India), Chander Govindarajan (IBM Research, India), Dushyant Behl (IBM Research, India), Dileban Karunamoorthy (IBM Research, Australia), Ermyas Abebe (IBM Research, Australia), Sandip Chakraborty (IITKGP) *[Decentralized Cross-Network Identity Management for Blockchain Interoperation](https://ieeexplore.ieee.org/document/9461064)* | [Arxiv](https://arxiv.org/abs/2104.03277) | [Presentation](/assets/icbc2021.pdf)
 <hr>
 
 
-**IEEE INFOCOM 2021 (accepted)** - Bishakh Chandra Ghosh, Tanay Bhartia, Sourav Kanti Addya, Sandip Chakraborty *[Leveraging Public-Private Blockchain Interoperability for Closed Consortium Interfacing](#)*
+**IEEE INFOCOM 2021** - Bishakh Chandra Ghosh, Tanay Bhartia, Sourav Kanti Addya, Sandip Chakraborty *[Leveraging Public-Private Blockchain Interoperability for Closed Consortium Interfacing](https://ieeexplore.ieee.org/document/9488683)*
 <hr>
 
 
-**ACM SIGCOMM 2020 Posters** - Nishant Baranwal Somy, Abhijit Mondal, Bishakh Chandra Ghosh, Sandip Chakraborty *[System Call Interception for Serverless Isolation](#)*
+**ACM SIGCOMM 2020 Posters** - Nishant Baranwal Somy, Abhijit Mondal, Bishakh Chandra Ghosh, Sandip Chakraborty *[System Call Interception for Serverless Isolation](https://abhijitmondal.in/published/2020_SIGCOMM_Poster/Paper.pdf)*
 <hr>
 
 
-**MobileHCI 2020 Late-Breaking Results** - Partha Sarathi Pal, Bishakh Chandra Ghosh, Ankan Ghosh, Sujoy Saha, Subrata Nandi, Sandip Chakraborty *[Aco-Wi : Acoustic Initiated Wi-Fi Peer-group Communication for Opportunistic Messaging](#)*
+**MobileHCI 2020 Late-Breaking Results** - Partha Sarathi Pal, Bishakh Chandra Ghosh, Ankan Ghosh, Sujoy Saha, Subrata Nandi, Sandip Chakraborty *[Aco-Wi : Acoustic Initiated Wi-Fi Peer-group Communication for Opportunistic Messaging](https://dl.acm.org/doi/abs/10.1145/3406324.3410712)*
 <hr>
 
 **MobileHCI 2020** - Partha Sarathi Paul, Bishakh Chandra Ghosh, Ankan Ghosh, Sujoy Saha, Subrata Nandi, Sandip Chakraborty *[Disaster Strikes! Internet Blackout! What’s the Fate of Crisis Mapping?](https://dl.acm.org/doi/abs/10.1145/3379503.3403532)*
