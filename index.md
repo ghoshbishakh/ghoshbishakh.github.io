@@ -140,7 +140,7 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
  -->
 
 ### ACHIEVEMENTS
-
+- Received COMSNETS LRN Travel Grant for attending IEEE INFOCOM 2021 
 - Received Microsoft Travel Grant for attending IEEE SCC 2019 
 - First runners up in Smart India Hackathon 2017 under AICTE
 - Spot Award winner at MAQ Software for good performance and fast delivery
