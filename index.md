@@ -50,7 +50,7 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 
 ### PUBLICATIONS
 
-**IEEE Transactions on Cloud Computing** - Sourav Kanti Addya (NITK Surathkal), Anurag Satpathy (NIT Rourkela), Bishakh Chandra Ghosh (IITKGP), Sandip Chakraborty (IITKGP), Soumya K Ghosh (IITKGP), Sajal K Das (Missouri University of Science and Technology) *[CoMCLOUD: Virtual Machine Coalition for Multi-Tier Applications over Multi-Cloud Environments](https://ieeexplore.ieee.org/abstract/document/9585379)*
+**IEEE Transactions on Cloud Computing - 2021** - Sourav Kanti Addya (NITK Surathkal), Anurag Satpathy (NIT Rourkela), Bishakh Chandra Ghosh (IITKGP), Sandip Chakraborty (IITKGP), Soumya K Ghosh (IITKGP), Sajal K Das (Missouri University of Science and Technology) *[CoMCLOUD: Virtual Machine Coalition for Multi-Tier Applications over Multi-Cloud Environments](https://ieeexplore.ieee.org/abstract/document/9585379)*
 <hr>
 
 **IEEE ICBC 2021** - Bishakh Chandra Ghosh (IITKGP), Venkataraman Ramakrishna (IBM Research, India), Chander Govindarajan (IBM Research, India), Dushyant Behl (IBM Research, India), Dileban Karunamoorthy (IBM Research, Australia), Ermyas Abebe (IBM Research, Australia), Sandip Chakraborty (IITKGP) *[Decentralized Cross-Network Identity Management for Blockchain Interoperation](https://ieeexplore.ieee.org/document/9461064)* | [Arxiv](https://arxiv.org/abs/2104.03277) | [Presentation](/assets/icbc2021.pdf)
