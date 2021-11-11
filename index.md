@@ -175,6 +175,7 @@ Theory and Applications of Blockchain (Autumn 2021)<br>
 - First Position obtained at Socket Combat event, at Technoshine 2014, NIT Durgapur by implementing a multicast chat program.
 - Led a 3-tier team of 50 people as Technical Head, GNU Linux Users’ Group
 
+<hr>
 
 ### Bio
 
