@@ -160,7 +160,7 @@ Theory and Applications of Blockchain (Autumn 2021)<br>
 **Tech Lead - GNU Linux Users’ Group, NIT Durgapur 2017-18**
 <hr>
 
-**Reviewer of Journals - Journal of Systems and Software, Ad Hoc Networks**
+**Reviewed of Journals - Journal of Systems and Software, Ad Hoc Networks**
 
 <hr>
 
