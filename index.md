@@ -94,18 +94,18 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 
 
 ### EXPERIENCE
-**Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
-Networks Lab (Spring 2019, Spring 2020)<br>
-Advances in Operating Systems Design (Autumn 2019, Autumn 2020)
 
+**IBM Research - IRL** - Summer Intern <span style="float: right; ">June - August 2020</span>
+Blockchain Interoperability
 <hr>
+
 
 **Cityprobe Project NIT Durgapur** - Project Student Associate <span style="float: right; ">Dec 2017 - May 2018</span>
 Opportunistic data dissemination through challenged networks
 <hr>
 
 **MAQ Software** - Software Intern <span style="float: right; ">May 2017 - Jun 2017</span>
-Design and implement Microsoft Returns Dashboard using TSQL, ASP, and Power BI.
+Microsoft Returns Dashboard using TSQL, ASP, and Power BI.
 <hr>
 
 **Google Summer of Code** - Python Software Foundation <span style="float: right; ">May 2016 - Aug 2016</span>
@@ -141,6 +141,28 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
  -->
+
+### POSITIONS OF RESPONSIBILITY
+
+**Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
+<br>Networks Lab (Spring 2019, Spring 2020, Spring 2021)<br>
+Advances in Operating Systems Design (Autumn 2019, Autumn 2020)<br>
+Theory and Applications of Blockchain (Autumn 2021)<br>
+<hr>
+
+**Web Chair - COMSNETS 2022**
+<hr>
+
+**Web Chair - STEERS Workshop 2021, 2022**
+<hr>
+
+**Tech Lead - GNU Linux Users’ Group, NIT Durgapur 2017-18**
+<hr>
+
+**Reviewer of Journals - Journal of Systems and Software, Ad Hoc Networks**
+
+<hr>
+
 
 ### ACHIEVEMENTS
 - Received COMSNETS LRN Travel Grant for attending IEEE INFOCOM 2021 
