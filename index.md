@@ -148,6 +148,7 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 <br>Networks Lab (Spring 2019, Spring 2020, Spring 2021)<br>
 Advances in Operating Systems Design (Autumn 2019, Autumn 2020)<br>
 Theory and Applications of Blockchain (Autumn 2021)<br>
+[NPTEL] Computer Networks and Internet Protocol (2021)<br>
 <hr>
 
 **Web Chair - COMSNETS 2022**
