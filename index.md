@@ -50,6 +50,9 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 
 ### PUBLICATIONS
 
+**COMSNETS 2022 Demo** - Jahnavi Yerramaddu (National Institute of Technology Karnataka, India); Prathyusha Mudavath and Sayad Shahanaz (NITK, India); Dhaval Thummar (National Institute of Technology Karnataka, India); Bishakh Chandra Ghosh (Indian Institute of Technology Kharagpur, India); Sourav Kanti Addya (National Institute of Technology Karnataka, India) *[Democratizing University Seat Allocation using Blockchain](#)*
+<hr>
+
 **IEEE Transactions on Cloud Computing - 2021** - Sourav Kanti Addya (NITK Surathkal), Anurag Satpathy (NIT Rourkela), Bishakh Chandra Ghosh (IITKGP), Sandip Chakraborty (IITKGP), Soumya K Ghosh (IITKGP), Sajal K Das (Missouri University of Science and Technology) *[CoMCLOUD: Virtual Machine Coalition for Multi-Tier Applications over Multi-Cloud Environments](https://ieeexplore.ieee.org/abstract/document/9585379)*
 <hr>
 
