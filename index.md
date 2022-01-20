@@ -186,7 +186,9 @@ Theory and Applications of Blockchain (Autumn 2021)<br>
 
 - At SRMAP Coding Club. Talk title: Developing Web Applications using Django. <br>
 <div class="embed-responsive embed-responsive-16by9">
+<centering>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hFsjbBfFyLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</centering>
 </div>
 
 <hr>
