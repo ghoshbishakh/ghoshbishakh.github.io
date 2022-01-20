@@ -169,6 +169,7 @@ Theory and Applications of Blockchain (Autumn 2021)<br>
 
 
 ### ACHIEVEMENTS
+- Outstanding Contribution Award for serving as web-chair in COMSNETS 2022
 - Received COMSNETS LRN Travel Grant for attending IEEE INFOCOM 2021 
 - Received Microsoft Travel Grant for attending IEEE SCC 2019 
 - First runners up in Smart India Hackathon 2017 under AICTE
