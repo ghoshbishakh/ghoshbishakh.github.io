@@ -181,6 +181,16 @@ Theory and Applications of Blockchain (Autumn 2021)<br>
 
 <hr>
 
+
+### Invited Talks
+
+- At SRMAP Coding Club. Talk title: Developing Web Applications using Django. <br>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hFsjbBfFyLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<hr>
+
 ### Bio
 
 Bishakh has completed his B.Tech from NIT Durgapur in 2018. He is currently working towards his Ph.D. from IIT Kharagpur under the supervision of Dr. Sandip Chakraborty. His areas of interest includes blockchains, distributed systems, cloud computing, and computer networks. He has published more than 10 papers in this short duration including some of the prestigious conferences like IEEE INFOCOM, ACM SIGCOMM, Mobile HCI, IEEE SCC, etc. He has two US patent applications in blockchain technology. He has received Microsoft Travel Grant for attending IEEE SCC 2019, and  LRN Foundation International Travel Grant for attending INFOCOM 2021. In his B.Tech, he participated in various Hackathons and coding competitions. He completed Google Summer of Code in 2016 under Python Software Foundation. He led his team in Smart India Hackathon 2017 to emerge as the first runners up. He has also won Spot Award from MAQ Software, winter intern award from NIT Durgapur. He was technical lead of a 3-tier team of 50 people in GNU Linux Users’ Group at NIT Durgapur. He can be reached through the following website. https://ghoshbishakh.github.io/
