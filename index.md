@@ -148,10 +148,13 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 ### POSITIONS OF RESPONSIBILITY
 
 **Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
-<br>Networks Lab (Spring 2019, Spring 2020, Spring 2021)<br>
-Advances in Operating Systems Design (Autumn 2019, Autumn 2020)<br>
-Theory and Applications of Blockchain (Autumn 2021)<br>
+<br>
+[NPTEL] Blockchain and its Applications (2022) | https://nptel.ac.in/courses/106/105/106105235<br>
+[IIT Kgp] Theory and Applications of Blockchain (Autumn 2021)<br>
 [NPTEL] Computer Networks and Internet Protocol (2021)<br>
+[IIT Kgp] Networks Lab (Spring 2019, Spring 2020, Spring 2021)<br>
+[IIT Kgp] Advances in Operating Systems Design (Autumn 2019, Autumn 2020)<br>
+
 <hr>
 
 **Web Chair - COMSNETS 2022**
@@ -184,12 +187,14 @@ Theory and Applications of Blockchain (Autumn 2021)<br>
 
 ### Invited Talks
 
-- At SRMAP Coding Club. Talk title: Developing Web Applications using Django. <br>
+- At SRMAP Coding Club. Talk title: Developing Web Applications using Django.  (2021)<br>
 <div class="embed-responsive embed-responsive-16by9">
 <centering>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hFsjbBfFyLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </centering>
 </div>
+
+- At the workshop on IoT and Blockchain at the department of CSE, IIIT Guwahati. Talk: Hands on tutorial on Hyperledger Fabric. (2019)
 
 <hr>
 
