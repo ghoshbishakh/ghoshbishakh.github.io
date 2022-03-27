@@ -50,6 +50,10 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 
 ### PUBLICATIONS
 
+**IEEE ICBC 2022** - Bishakh Chandra Ghosh (IITKGP), Dhinakaran Vinayagamurthy (IBM Research, India), Venkataraman Ramakrishna (IBM Research, India), Krishnasuri Narayanam (IBM Research, India), Sandip Chakraborty (IITKGP) *[Privacy-Preserving Negotiation of Common Trust
+Anchors Across Blockchain Networks](#)*
+<hr>
+
 **COMSNETS 2022 Demo** - Jahnavi Yerramaddu (National Institute of Technology Karnataka, India); Prathyusha Mudavath and Sayad Shahanaz (NITK, India); Dhaval Thummar (National Institute of Technology Karnataka, India); Bishakh Chandra Ghosh (Indian Institute of Technology Kharagpur, India); Sourav Kanti Addya (National Institute of Technology Karnataka, India) *[Democratizing University Seat Allocation using Blockchain](#)*
 <hr>
 
@@ -149,7 +153,7 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 
 **Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
 <br>
-[NPTEL] Blockchain and its Applications (2022) | https://nptel.ac.in/courses/106/105/106105235<br>
+[NPTEL] Blockchain and its Applications (2022) | [https://nptel.ac.in/courses/106/105/106105235](https://nptel.ac.in/courses/106/105/106105235)<br>
 [IIT Kgp] Theory and Applications of Blockchain (Autumn 2021)<br>
 [NPTEL] Computer Networks and Internet Protocol (2021)<br>
 [IIT Kgp] Networks Lab (Spring 2019, Spring 2020, Spring 2021)<br>
