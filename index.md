@@ -78,6 +78,9 @@ Anchors Across Blockchain Networks](#)*
 **MobileHCI 2020** - Partha Sarathi Paul, Bishakh Chandra Ghosh, Ankan Ghosh, Sujoy Saha, Subrata Nandi, Sandip Chakraborty *[Disaster Strikes! Internet Blackout! What’s the Fate of Crisis Mapping?](https://dl.acm.org/doi/abs/10.1145/3379503.3403532)*
 <hr>
 
+**COMSNETS 2020 Poster** - Bishakh Chandra Ghosh, Sourav Kanti Addya, Nishant Baranwal Somy, Shubha Brata Nath, Sandip Chakraborty, Soumya K Ghosh *[Caching techniques to improve latency in serverless architectures](https://ieeexplore.ieee.org/abstract/document/9027427/)*
+<hr>
+
 **Journal of Network and Computer Applications** - P. S. Paul, Bishakh Chandra Ghosh, Hridoy Datta, Kingshuk De, Arka Prava Basu, Prithviraj Pramanik, Sujoy Saha, Sandip Chakraborty, Niloy Ganguly, Subrata Nandi *[CRIMP: Here crisis mapping goes offline](https://doi.org/10.1016/j.jnca.2019.102418)*
 <hr>
 
