@@ -164,6 +164,10 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 
 <hr>
 
+**Publicity Chair - COMSNETS 2023**
+
+<hr>
+
 **Web Chair - COMSNETS 2022**
 <hr>
 
