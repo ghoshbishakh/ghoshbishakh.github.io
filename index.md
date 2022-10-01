@@ -50,8 +50,11 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 
 ### PUBLICATIONS
 
+**NDSS 2023** - Bishakh Chandra Ghosh (IITKGP), Sikhar Patranabis (IBM Research, India), Dhinakaran Vinayagamurthy (IBM Research, India), Venkataraman Ramakrishna (IBM Research, India), Krishnasuri Narayanam (IBM Research, India), Sandip Chakraborty (IITKGP) *[Private Certifier Intersection](https://eprint.iacr.org/2022/1302)*
+<hr>
+
 **IEEE ICBC 2022** - Bishakh Chandra Ghosh (IITKGP), Dhinakaran Vinayagamurthy (IBM Research, India), Venkataraman Ramakrishna (IBM Research, India), Krishnasuri Narayanam (IBM Research, India), Sandip Chakraborty (IITKGP) *[Privacy-Preserving Negotiation of Common Trust
-Anchors Across Blockchain Networks](#)*
+Anchors Across Blockchain Networks](https://ieeexplore.ieee.org/document/9805532/)*
 <hr>
 
 **COMSNETS 2022 Demo** - Jahnavi Yerramaddu (National Institute of Technology Karnataka, India); Prathyusha Mudavath and Sayad Shahanaz (NITK, India); Dhaval Thummar (National Institute of Technology Karnataka, India); Bishakh Chandra Ghosh (Indian Institute of Technology Kharagpur, India); Sourav Kanti Addya (National Institute of Technology Karnataka, India) *[Democratizing University Seat Allocation using Blockchain](#)*
