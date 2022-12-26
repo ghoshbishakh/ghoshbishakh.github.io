@@ -180,7 +180,12 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 **Tech Lead - GNU Linux Users’ Group, NIT Durgapur 2017-18**
 <hr>
 
-**Reviewed Journals - Journal of Systems and Software, Ad Hoc Networks**
+**Reviewed Journals - Journal of Systems and Software, Ad Hoc Networks, 
+IEEE Transactions on Network and Service Management**
+
+<hr>
+
+**Served as PC member in IEEE ICBC 2023**
 
 <hr>
 
