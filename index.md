@@ -53,6 +53,10 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 **NDSS 2023** - Bishakh Chandra Ghosh (IITKGP), Sikhar Patranabis (IBM Research, India), Dhinakaran Vinayagamurthy (IBM Research, India), Venkataraman Ramakrishna (IBM Research, India), Krishnasuri Narayanam (IBM Research, India), Sandip Chakraborty (IITKGP) *[Private Certifier Intersection](https://eprint.iacr.org/2022/1302)* | [Preprint](https://eprint.iacr.org/2022/1302) | [Source Code](https://github.com/ghoshbishakh/pci)
 <hr>
 
+**IEEE Transactions on Services Computing** Sourav Kanti Addya, Anurag Satpathy, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh and Sajal K Das, "Geo-distributed Multi-tier Workload Migration over Multi-timescale Electricity Markets"
+
+<hr>
+
 **IEEE ICBC 2022** - Bishakh Chandra Ghosh (IITKGP), Dhinakaran Vinayagamurthy (IBM Research, India), Venkataraman Ramakrishna (IBM Research, India), Krishnasuri Narayanam (IBM Research, India), Sandip Chakraborty (IITKGP) *[Privacy-Preserving Negotiation of Common Trust
 Anchors Across Blockchain Networks](https://ieeexplore.ieee.org/document/9805532/)*
 <hr>
@@ -157,6 +161,17 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 
 ### POSITIONS OF RESPONSIBILITY
 
+
+**Reviewed Journals:** <br>Journal of Systems and Software<br> Ad Hoc Networks<br>
+IEEE Transactions on Network and Service Management<br>
+Pervasive and Mobile Computing
+
+<hr>
+
+**Served as PC member in IEEE ICBC 2023**
+
+<hr>
+
 **Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
 <br>
 [NPTEL] Blockchain and its Applications (2022) | [https://nptel.ac.in/courses/106/105/106105235](https://nptel.ac.in/courses/106/105/106105235)<br>
@@ -180,14 +195,6 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 **Tech Lead - GNU Linux Users’ Group, NIT Durgapur 2017-18**
 <hr>
 
-**Reviewed Journals - Journal of Systems and Software, Ad Hoc Networks, 
-IEEE Transactions on Network and Service Management**
-
-<hr>
-
-**Served as PC member in IEEE ICBC 2023**
-
-<hr>
 
 
 ### ACHIEVEMENTS
