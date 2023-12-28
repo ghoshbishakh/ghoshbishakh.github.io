@@ -9,8 +9,8 @@ sitemap:
 <img src="{{ '/assets/img/dp.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-    <p>My current areas of interest are distributed systems, cloud computing, computer networks.</p>
-	<p>I am working under the supervision of <a href="https://cse.iitkgp.ac.in/~sandipc/" target="_blank">Dr. Sandip Chakraborty</a></p>
+    <p>Bootstrapping <a href="https://pinggy.io/" target="_blank">Pinggy</a> and <a href="https://easyauth.io/" target="_blank">EasyAuth</a></p>
+	<p>PhD from IIT Kharagpur under the supervision of <a href="https://cse.iitkgp.ac.in/~sandipc/" target="_blank">Dr. Sandip Chakraborty</a></p>
 	<p><strong><a target="_blank" href="https://scholar.google.co.in/citations?user=5kBZSVkAAAAJ&hl=en">Google Scholar</a> | <a target="_blank" href="https://dblp.uni-trier.de/pers/hd/g/Ghosh:Bishakh_Chandra">DBLP</a> | <a target="_blank" href="https://github.com/ghoshbishakh">GitHub</a></strong></p>
 </div>
 
@@ -19,9 +19,9 @@ sitemap:
 
 ### EDUCATION
 
-**Indian Institute of Technology Kharagpur** <span style="float: right; ">2018 - Present</span>  
+**Indian Institute of Technology Kharagpur** <span style="float: right; ">2018 - 2023</span>  
 
-PhD <span style="float: right; ">Blockchains and MPC</span>
+PhD <span style="float: right; ">Blockchains Interoperability</span>
 
 Department of Computer Science and Engineering
 
@@ -164,7 +164,8 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 
 **Reviewed Journals:** <br>Journal of Systems and Software<br> Ad Hoc Networks<br>
 IEEE Transactions on Network and Service Management<br>
-Pervasive and Mobile Computing
+Pervasive and Mobile Computing<br>
+IEEE Transactions on Information Forensics and Security
 
 <hr>
 
@@ -226,5 +227,5 @@ Pervasive and Mobile Computing
 
 ### Bio
 
-Bishakh has completed his B.Tech from NIT Durgapur in 2018. He is currently working towards his Ph.D. from IIT Kharagpur under the supervision of Dr. Sandip Chakraborty. His areas of interest includes blockchains, distributed systems, cloud computing, and computer networks. He has published more than 10 papers in this short duration including some of the prestigious conferences like IEEE INFOCOM, ACM SIGCOMM, Mobile HCI, IEEE SCC, etc. He has two US patent applications in blockchain technology. He has received Microsoft Travel Grant for attending IEEE SCC 2019, and  LRN Foundation International Travel Grant for attending INFOCOM 2021. In his B.Tech, he participated in various Hackathons and coding competitions. He completed Google Summer of Code in 2016 under Python Software Foundation. He led his team in Smart India Hackathon 2017 to emerge as the first runners up. He has also won Spot Award from MAQ Software, winter intern award from NIT Durgapur. He was technical lead of a 3-tier team of 50 people in GNU Linux Users’ Group at NIT Durgapur. He can be reached through the following website. https://ghoshbishakh.github.io/
+Bishakh has completed his B.Tech from NIT Durgapur in 2018. He has obtained his Ph.D. in 2023 from IIT Kharagpur under the supervision of Dr. Sandip Chakraborty. His areas of interest includes blockchains, distributed systems, cloud computing, and computer networks. He has published papers in prestigious conferences including NDSS, IEEE INFOCOM, Mobile HCI, IEEE SCC, etc. He has two US patent applications in blockchain technology. He has received Microsoft Travel Grant for attending IEEE SCC 2019, and  LRN Foundation International Travel Grant for attending INFOCOM 2021. In his B.Tech, he participated in various Hackathons and coding competitions. He completed Google Summer of Code in 2016 under Python Software Foundation. He led his team in Smart India Hackathon 2017 to emerge as the first runners up. He was technical lead of a 3-tier team of 50 people in GNU Linux Users’ Group at NIT Durgapur. He can be reached through the following website. https://ghoshbishakh.github.io/
 
