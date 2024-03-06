@@ -174,7 +174,10 @@ IEEE Transactions on Information Forensics and Security
 
 <hr>
 
-**Served as PC member in IEEE ICBC 2023**
+**Served as PC member in IEEE ICBC 2023, IEEE ICBC 2024**
+
+
+**Served as PC member in IEEE ICDCS 2024**
 
 <hr>
 
