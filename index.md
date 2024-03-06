@@ -50,6 +50,11 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 
 ### PUBLICATIONS
 
+**IEEE Transactions on Cloud Computing, 2024** - Bishakh Chandra Ghosh (IITKGP), Sandip Chakraborty (IITKGP) *[Trustless Collaborative Cloud Federation
+](https://ieeexplore.ieee.org/abstract/document/10457068/)*
+<hr>
+
+
 **NDSS 2023** - Bishakh Chandra Ghosh (IITKGP), Sikhar Patranabis (IBM Research, India), Dhinakaran Vinayagamurthy (IBM Research, India), Venkataraman Ramakrishna (IBM Research, India), Krishnasuri Narayanam (IBM Research, India), Sandip Chakraborty (IITKGP) *[Private Certifier Intersection](https://eprint.iacr.org/2022/1302)* | [Preprint](https://eprint.iacr.org/2022/1302) | [Source Code](https://github.com/ghoshbishakh/pci)
 <hr>
 
