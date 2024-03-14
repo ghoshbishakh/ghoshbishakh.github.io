@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/dp.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/dp3.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
     <p>Bootstrapping <a href="https://pinggy.io/" target="_blank">Pinggy</a> and <a href="https://easyauth.io/" target="_blank">EasyAuth</a></p>
