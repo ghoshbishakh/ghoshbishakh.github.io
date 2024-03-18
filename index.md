@@ -21,7 +21,7 @@ sitemap:
 
 **Indian Institute of Technology Kharagpur** <span style="float: right; ">2018 - 2023</span>  
 
-PhD <span style="float: right; ">Blockchains Interoperability</span>
+PhD <span style="float: right; ">Blockchains Interoperability</span> **[Thesis](./assets/thesis.pdf)**
 
 Department of Computer Science and Engineering
 
