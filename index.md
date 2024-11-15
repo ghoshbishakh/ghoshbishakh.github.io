@@ -51,7 +51,7 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 ### PUBLICATIONS
 
 **IEEE Transactions on Cloud Computing, 2024** - Bishakh Chandra Ghosh (IITKGP), Sandip Chakraborty (IITKGP) *[Trustless Collaborative Cloud Federation
-](https://ieeexplore.ieee.org/abstract/document/10457068/)*
+](https://ieeexplore.ieee.org/abstract/document/10457068/)* [**Preprint**](/assets/tcc_preprint.pdf)
 <hr>
 
 
