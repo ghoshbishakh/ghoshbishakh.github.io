@@ -51,7 +51,7 @@ Nava Nalanda Santiniketan <span style="float: right; ">87.14%</span>
 ### PUBLICATIONS
 
 **IEEE Transactions on Cloud Computing, 2024** - Bishakh Chandra Ghosh (IITKGP), Sandip Chakraborty (IITKGP) *[Trustless Collaborative Cloud Federation
-](https://ieeexplore.ieee.org/abstract/document/10457068/)* [**Preprint**](/assets/tcc_preprint.pdf)
+](https://ieeexplore.ieee.org/abstract/document/10457068/)* | [Preprint](/assets/tcc_preprint.pdf)
 <hr>
 
 
@@ -188,6 +188,10 @@ IEEE Transactions on Information Forensics and Security
 [NPTEL] Computer Networks and Internet Protocol (2021)<br>
 [IIT Kgp] Networks Lab (Spring 2019, Spring 2020, Spring 2021)<br>
 [IIT Kgp] Advances in Operating Systems Design (Autumn 2019, Autumn 2020)<br>
+
+<hr>
+
+**Social Media Chair - ICDCN 2025**
 
 <hr>
 
