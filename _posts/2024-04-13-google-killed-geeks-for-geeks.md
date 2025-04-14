@@ -10,14 +10,14 @@ Yes, <a href="https://www.geeksforgeeks.org/" target="_blank">GeeksforGeeks</a> 
 
 The news was broken to me by one of my fellow colleagues. I quickly ran a few searches to confirm it myself. Turns out that some sponsored ads are still appearing. However, no organic results. None. Even if I type in "geeks for geeks", still no results.
 
-![google search screenshot showing geeksforgeeks not appearing in results]({{ site.url }}{{ site.baseurl }}/assets/geeks1.png)
+![google search screenshot showing geeksforgeeks not appearing in results]({{ site.url }}{{ site.baseurl }}/assets/img/geeks1.png)
 
 For a site that used to rank first for everything from "python list comprehension" to "Dijkstra's algorithm C++", this feels like a major glitch in the matrix. It's not like GFG disappeared from the internet - the site's up, working fine, serving pages. It's just that Google decided not to show it. At all.
 
 Have a look at the graph from ahrefs traffic checker. The organic traffic is down from 30 Million to 6.7 Million. This residual traffic is probably from the sponsored links and other engines such as Bing.
 
 
-![geeksforgeeks traffic in ahref traffic checker]({{ site.url }}{{ site.baseurl }}/assets/geeks2.png)
+![geeksforgeeks traffic in ahref traffic checker]({{ site.url }}{{ site.baseurl }}/assets/img/geeks2.png)
 
 Now, it could be a penalty. Maybe Google flagged them for thin content, aggressive SEO, or some kind of policy violation. Or it could just be a bug. Hard to say without an official word. But the silence from both sides - Google and GeeksforGeeks - makes it feel even weirder.
 
