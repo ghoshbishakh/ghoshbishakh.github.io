@@ -13,9 +13,9 @@ document.addEventListener('DOMContentLoaded', function() {
   var scene = new THREE.Scene();
 
   var aspect = width / height;
-  var camera = new THREE.PerspectiveCamera(35, aspect, 0.1, 1000);
-  camera.position.set(0, 2, 18);
-  camera.lookAt(0, 0, 0);
+  var camera = new THREE.PerspectiveCamera(30, aspect, 0.1, 1000);
+  camera.position.set(-6, 1, 14);
+  camera.lookAt(4, -0.5, 0);
 
   var renderer = new THREE.WebGLRenderer({
     alpha: true,
@@ -25,10 +25,10 @@ document.addEventListener('DOMContentLoaded', function() {
   renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
   container.appendChild(renderer.domElement);
 
-  var cols = 50;
-  var rows = 20;
-  var meshW = 40;
-  var meshH = 8;
+  var cols = 60;
+  var rows = 25;
+  var meshW = 50;
+  var meshH = 12;
   var spacingW = meshW / cols;
   var spacingH = meshH / rows;
 
@@ -64,9 +64,9 @@ document.addEventListener('DOMContentLoaded', function() {
   var colorArr = new Float32Array(positions.length);
   for (var i = 0; i < positions.length / 3; i++) {
     var y = positions[i * 3 + 1];
-    var fade = 1 - Math.abs(y) / (meshH / 2);
-    fade = Math.max(0, Math.pow(fade, 2.0));
-    var bright = 0.4 + fade * 0.3;
+    var fade = 1 - (y + meshH / 2) / meshH;
+    fade = Math.max(0, Math.pow(fade, 1.5));
+    var bright = 0.3 + fade * 0.4;
     colorArr[i * 3] = 0.145 * bright;
     colorArr[i * 3 + 1] = 0.388 * bright;
     colorArr[i * 3 + 2] = 0.922 * bright;
@@ -94,9 +94,9 @@ document.addEventListener('DOMContentLoaded', function() {
       var oy = origPos[ix + 1];
       var oz = origPos[ix + 2];
 
-      var wave1 = Math.sin(ox * 1.0 + t * 1.2) * 0.2;
-      var wave2 = Math.sin(oy * 0.8 + t * 1.6) * 0.12;
-      var wave3 = Math.sin((ox + oy) * 0.5 + t * 0.7) * 0.08;
+      var wave1 = Math.sin(ox * 0.6 + t * 0.8) * 0.8;
+      var wave2 = Math.sin(oy * 0.4 + ox * 0.3 + t * 0.5) * 0.5;
+      var wave3 = Math.sin(ox * 1.2 + t * 1.0) * 0.3;
       pos[ix + 2] = oz + wave1 + wave2 + wave3;
     }
 
