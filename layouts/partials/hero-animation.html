@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
   var hero = document.querySelector('.hero');
   if (!container || !hero) return;
 
-  var width = hero.offsetWidth;
+  var width = window.innerWidth;
   var height = hero.offsetHeight;
   if (width === 0 || height === 0) return;
 
@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
   animate();
 
   window.addEventListener('resize', function() {
-    var w = hero.offsetWidth;
+    var w = window.innerWidth;
     var h = hero.offsetHeight;
     camera.aspect = w / h;
     camera.updateProjectionMatrix();
