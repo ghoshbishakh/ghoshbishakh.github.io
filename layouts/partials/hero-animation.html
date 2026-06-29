@@ -13,9 +13,9 @@ document.addEventListener('DOMContentLoaded', function() {
   var scene = new THREE.Scene();
 
   var aspect = width / height;
-  var camera = new THREE.PerspectiveCamera(30, aspect, 0.1, 1000);
-  camera.position.set(-6, 1, 14);
-  camera.lookAt(4, -0.5, 0);
+  var camera = new THREE.PerspectiveCamera(25, aspect, 0.1, 1000);
+  camera.position.set(0, 1.5, 16);
+  camera.lookAt(0, -1.5, -2);
 
   var renderer = new THREE.WebGLRenderer({
     alpha: true,
@@ -66,17 +66,17 @@ document.addEventListener('DOMContentLoaded', function() {
     var y = positions[i * 3 + 1];
     var fade = 1 - (y + meshH / 2) / meshH;
     fade = Math.max(0, Math.pow(fade, 1.5));
-    var bright = 0.3 + fade * 0.4;
-    colorArr[i * 3] = 0.145 * bright;
-    colorArr[i * 3 + 1] = 0.388 * bright;
-    colorArr[i * 3 + 2] = 0.922 * bright;
+    var bright = 0.25 + fade * 0.35;
+    colorArr[i * 3] = 0.09 * bright;
+    colorArr[i * 3 + 1] = 0.25 * bright;
+    colorArr[i * 3 + 2] = 0.50 * bright;
   }
   geo.setAttribute('color', new THREE.BufferAttribute(colorArr, 3));
 
   var mat = new THREE.LineBasicMaterial({
     vertexColors: true,
     transparent: true,
-    opacity: 0.12,
+    opacity: 0.08,
   });
   var lines = new THREE.LineSegments(geo, mat);
   scene.add(lines);
@@ -94,9 +94,9 @@ document.addEventListener('DOMContentLoaded', function() {
       var oy = origPos[ix + 1];
       var oz = origPos[ix + 2];
 
-      var wave1 = Math.sin(ox * 0.6 + t * 0.8) * 0.8;
-      var wave2 = Math.sin(oy * 0.4 + ox * 0.3 + t * 0.5) * 0.5;
-      var wave3 = Math.sin(ox * 1.2 + t * 1.0) * 0.3;
+      var wave1 = Math.sin(ox * 0.25 + t * 0.3) * 0.6;
+      var wave2 = Math.sin(oy * 0.15 + ox * 0.2 + t * 0.2) * 0.4;
+      var wave3 = Math.sin(ox * 0.5 + oy * 0.1 + t * 0.4) * 0.25;
       pos[ix + 2] = oz + wave1 + wave2 + wave3;
     }
 
