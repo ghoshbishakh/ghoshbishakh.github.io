@@ -2,7 +2,7 @@
 <div class="hero">
 <img src="/assets/img/dp3.jpg" alt="{{ .Title }}" class="hero-avatar">
 <h1>{{ .Title }}</h1>
-{{ if .Params.subtitle }}<p class="hero-subtitle">{{ .Params.subtitle }}</p>{{ end }}
+{{ if .Params.subtitle }}<p class="hero-subtitle">{{ .Params.subtitle | safeHTML }}</p>{{ end }}
 <div class="hero-links">
 <a href="https://scholar.google.co.in/citations?user=5kBZSVkAAAAJ&hl=en" target="_blank">Google Scholar</a>
 <a href="https://dblp.uni-trier.de/pers/hd/g/Ghosh:Bishakh_Chandra" target="_blank">DBLP</a>

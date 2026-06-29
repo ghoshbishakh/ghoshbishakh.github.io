@@ -1,18 +1,9 @@
 ---
 title: Bishakh Ghosh
-subtitle: IIT Kharagpur
+subtitle: |
+  Bootstrapping <a href="https://pinggy.io/" target="_blank">Pinggy</a> and <a href="https://easyauth.io/" target="_blank">EasyAuth</a><br>
+  PhD from IIT Kharagpur under the supervision of <a href="https://cse.iitkgp.ac.in/~sandipc/" target="_blank">Dr. Sandip Chakraborty</a>
 ---
-
-<img src="/assets/img/dp3.jpg" id="about-img">
-
-<div id="describe-text">
-    <p>Bootstrapping <a href="https://pinggy.io/" target="_blank">Pinggy</a> and <a href="https://easyauth.io/" target="_blank">EasyAuth</a></p>
-	<p>PhD from IIT Kharagpur under the supervision of <a href="https://cse.iitkgp.ac.in/~sandipc/" target="_blank">Dr. Sandip Chakraborty</a></p>
-	<p><strong><a target="_blank" href="https://scholar.google.co.in/citations?user=5kBZSVkAAAAJ&hl=en">Google Scholar</a> | <a target="_blank" href="https://dblp.uni-trier.de/pers/hd/g/Ghosh:Bishakh_Chandra">DBLP</a> | <a target="_blank" href="https://github.com/ghoshbishakh">GitHub</a></strong></p>
-</div>
-
-<span style="float: right; "><a href="/assets/resume.pdf"><strong>> Download as PDF</strong></a> </span>
-<br>
 
 ### EDUCATION
 
