@@ -144,91 +144,18 @@ img {
 .hero {
   position: relative;
   text-align: center;
-  padding: 32px 0 48px;
+  padding: 48px 0 64px;
+  min-height: 520px;
   overflow: hidden;
 }
 
-#hero-bg {
+#hero-canvas {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   z-index: 0;
-  overflow: hidden;
-}
-
-.hero-blob {
-  position: absolute;
-  border-radius: 50%;
-  filter: blur(80px);
-  opacity: 0.3;
-  animation: blob-morph 20s ease-in-out infinite alternate;
-}
-
-.hero-blob-1 {
-  width: 400px;
-  height: 400px;
-  top: -100px;
-  left: -100px;
-  background: linear-gradient(135deg, #2563eb, #7c3aed);
-  animation-duration: 18s;
-}
-
-.hero-blob-2 {
-  width: 350px;
-  height: 350px;
-  bottom: -80px;
-  right: -80px;
-  background: linear-gradient(135deg, #3b82f6, #06b6d4);
-  animation-duration: 22s;
-  animation-delay: -6s;
-}
-
-.hero-blob-3 {
-  width: 250px;
-  height: 250px;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background: linear-gradient(135deg, #8b5cf6, #2563eb);
-  animation-duration: 25s;
-  animation-delay: -12s;
-}
-
-@keyframes blob-morph {
-  0% {
-    border-radius: 50%;
-    transform: translate(0, 0) scale(1);
-  }
-  25% {
-    border-radius: 40% 60% 60% 40% / 60% 40% 50% 50%;
-    transform: translate(30px, -20px) scale(1.1);
-  }
-  50% {
-    border-radius: 50% 50% 40% 60% / 40% 50% 60% 50%;
-    transform: translate(-20px, 30px) scale(0.9);
-  }
-  75% {
-    border-radius: 60% 40% 50% 50% / 50% 60% 40% 50%;
-    transform: translate(20px, 20px) scale(1.05);
-  }
-  100% {
-    border-radius: 40% 50% 60% 50% / 50% 40% 50% 60%;
-    transform: translate(-30px, -20px) scale(1);
-  }
-}
-
-.hero-grid {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image:
-    linear-gradient(rgba(37, 99, 235, 0.04) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(37, 99, 235, 0.04) 1px, transparent 1px);
-  background-size: 48px 48px;
 }
 
 .hero-content {
