@@ -1,0 +1,6 @@
+
+_site/
+.hugo_build.lock
+.jekyll-cache/
+.vendor/
+public/

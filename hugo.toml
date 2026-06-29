@@ -1,0 +1,31 @@
+baseURL = "https://ghoshbishakh.github.io"
+languageCode = "en-us"
+title = "Bishakh Ghosh"
+
+[params]
+  description = "Bishakh Ghosh programmer, researcher, developer"
+  github = "ghoshbishakh"
+  linkedin = "ghoshbishakh"
+  email = "ghoshbishakh@gmail.com"
+  highlightstyle = "agate"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[permalinks]
+  blog = "/blog/:slug/"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "agate"
+    tabWidth = 4
