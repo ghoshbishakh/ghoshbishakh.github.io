@@ -1,7 +1,7 @@
 ---
 title: Bishakh Ghosh
 subtitle: |
-  Bootstrapping <a href="https://pinggy.io/" target="_blank">Pinggy</a> and <a href="https://easyauth.io/" target="_blank">EasyAuth</a><br>
+  Bootstrapping <a href="https://pinggy.io/" target="_blank">Pinggy</a><br>
   PhD from IIT Kharagpur under the supervision of <a href="https://cse.iitkgp.ac.in/~sandipc/" target="_blank">Dr. Sandip Chakraborty</a>
 ---
 
