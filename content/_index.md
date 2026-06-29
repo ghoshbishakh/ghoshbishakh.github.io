@@ -1,7 +1,8 @@
 ---
 title: Bishakh Ghosh
 subtitle: |
-  Bootstrapping <a href="https://pinggy.io/" target="_blank">Pinggy</a><br>
+  Co-founder of <a href="https://pinggy.io/" target="_blank">Pinggy</a>, a profitable, bootstrapped startup founded in 2023<br>
+  Winner of the MeitY GENESIS Grant<br>
   PhD from IIT Kharagpur under the supervision of <a href="https://cse.iitkgp.ac.in/~sandipc/" target="_blank">Dr. Sandip Chakraborty</a>
 ---
 
