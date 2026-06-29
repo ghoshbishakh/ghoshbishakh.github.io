@@ -13,9 +13,9 @@ document.addEventListener('DOMContentLoaded', function() {
   var scene = new THREE.Scene();
 
   var aspect = width / height;
-  var camera = new THREE.PerspectiveCamera(25, aspect, 0.1, 1000);
-  camera.position.set(0, 1.5, 16);
-  camera.lookAt(0, -1.5, -2);
+  var camera = new THREE.PerspectiveCamera(50, aspect, 0.1, 1000);
+  camera.position.set(0, 1.2, 4);
+  camera.lookAt(0, 0.2, -12);
 
   var renderer = new THREE.WebGLRenderer({
     alpha: true,
@@ -25,36 +25,36 @@ document.addEventListener('DOMContentLoaded', function() {
   renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
   container.appendChild(renderer.domElement);
 
-  var cols = 60;
-  var rows = 25;
-  var meshW = 50;
-  var meshH = 12;
-  var spacingW = meshW / cols;
-  var spacingH = meshH / rows;
+  var cols = 30;
+  var rows = 40;
+  var farZ = 25;
+  var halfW = 12;
 
   var positions = [];
-  var origPos = [];
+  var origX = [];
+  var origZ = [];
 
   function addLine(x1, y1, z1, x2, y2, z2) {
     positions.push(x1, y1, z1, x2, y2, z2);
-    origPos.push(x1, y1, z1, x2, y2, z2);
+    origX.push(x1, x2);
+    origZ.push(z1, z2);
   }
 
   for (var r = 0; r <= rows; r++) {
-    var y = (r / rows - 0.5) * meshH;
+    var z = -(r / rows) * farZ;
     for (var c = 0; c < cols; c++) {
-      var x1 = (c / cols - 0.5) * meshW;
-      var x2 = ((c + 1) / cols - 0.5) * meshW;
-      addLine(x1, y, 0, x2, y, 0);
+      var x1 = (c / cols - 0.5) * halfW * 2;
+      var x2 = ((c + 1) / cols - 0.5) * halfW * 2;
+      addLine(x1, 0, z, x2, 0, z);
     }
   }
 
   for (var c = 0; c <= cols; c++) {
-    var x = (c / cols - 0.5) * meshW;
+    var x = (c / cols - 0.5) * halfW * 2;
     for (var r = 0; r < rows; r++) {
-      var y1 = (r / rows - 0.5) * meshH;
-      var y2 = ((r + 1) / rows - 0.5) * meshH;
-      addLine(x, y1, 0, x, y2, 0);
+      var z1 = -(r / rows) * farZ;
+      var z2 = -((r + 1) / rows) * farZ;
+      addLine(x, 0, z1, x, 0, z2);
     }
   }
 
@@ -63,23 +63,28 @@ document.addEventListener('DOMContentLoaded', function() {
 
   var colorArr = new Float32Array(positions.length);
   for (var i = 0; i < positions.length / 3; i++) {
-    var y = positions[i * 3 + 1];
-    var fade = 1 - (y + meshH / 2) / meshH;
-    fade = Math.max(0, Math.pow(fade, 1.5));
-    var bright = 0.25 + fade * 0.35;
-    colorArr[i * 3] = 0.09 * bright;
-    colorArr[i * 3 + 1] = 0.25 * bright;
-    colorArr[i * 3 + 2] = 0.50 * bright;
+    var z = positions[i * 3 + 2];
+    var fade = 1 - Math.abs(z) / farZ;
+    fade = Math.max(0, Math.pow(fade, 1.2));
+    var bright = 0.15 + fade * 0.3;
+    colorArr[i * 3] = 0.08 * bright;
+    colorArr[i * 3 + 1] = 0.22 * bright;
+    colorArr[i * 3 + 2] = 0.45 * bright;
   }
   geo.setAttribute('color', new THREE.BufferAttribute(colorArr, 3));
 
   var mat = new THREE.LineBasicMaterial({
     vertexColors: true,
     transparent: true,
-    opacity: 0.08,
+    opacity: 0.06,
   });
   var lines = new THREE.LineSegments(geo, mat);
   scene.add(lines);
+
+  var wavePos = new Float32Array(positions.length / 3);
+  for (var i = 0; i < positions.length / 3; i++) {
+    wavePos[i] = positions[i * 3 + 1];
+  }
 
   var startTime = Date.now();
 
@@ -90,14 +95,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
     for (var i = 0; i < pos.length / 3; i++) {
       var ix = i * 3;
-      var ox = origPos[ix];
-      var oy = origPos[ix + 1];
-      var oz = origPos[ix + 2];
+      var x = pos[ix];
+      var z = pos[ix + 2];
 
-      var wave1 = Math.sin(ox * 0.25 + t * 0.3) * 0.6;
-      var wave2 = Math.sin(oy * 0.15 + ox * 0.2 + t * 0.2) * 0.4;
-      var wave3 = Math.sin(ox * 0.5 + oy * 0.1 + t * 0.4) * 0.25;
-      pos[ix + 2] = oz + wave1 + wave2 + wave3;
+      var wave1 = Math.sin(x * 0.3 + z * 0.15 + t * 0.4) * 0.5;
+      var wave2 = Math.sin(x * 0.15 + z * 0.3 + t * 0.25) * 0.3;
+      var wave3 = Math.sin(x * 0.5 + z * 0.1 + t * 0.6) * 0.15;
+      pos[ix + 1] = wave1 + wave2 + wave3;
     }
 
     lines.geometry.attributes.position.needsUpdate = true;
