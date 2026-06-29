@@ -1,25 +1,27 @@
 <header class="header">
-<div class="navigation">
+<div class="nav-inner">
 <a href="{{ "/" | relURL }}" class="logo">{{ .Site.Title }}</a>
-<ul class="menu">
-<li class="menu__entry"><a href="{{ "/blog/" | relURL }}">Blog</a></li>
+<nav>
+<ul class="nav-links">
+<li><a href="{{ "/blog/" | relURL }}">Blog</a></li>
 </ul>
-</div>
+</nav>
 <ul class="social-links">
 {{ if .Site.Params.email }}
-<a href="mailto:{{ .Site.Params.email }}" class="social-links__entry" target="_blank">
-<i class="fa fa-envelope-square"></i>
+<a href="mailto:{{ .Site.Params.email }}" class="social-links__entry" target="_blank" aria-label="Email">
+<i class="fa fa-envelope"></i>
 </a>
 {{ end }}
 {{ if .Site.Params.github }}
-<a href="https://github.com/{{ .Site.Params.github }}" class="social-links__entry" target="_blank">
+<a href="https://github.com/{{ .Site.Params.github }}" class="social-links__entry" target="_blank" aria-label="GitHub">
 <i class="fa fa-github"></i>
 </a>
 {{ end }}
 {{ if .Site.Params.linkedin }}
-<a href="https://in.linkedin.com/in/{{ .Site.Params.linkedin }}" class="social-links__entry" target="_blank">
+<a href="https://in.linkedin.com/in/{{ .Site.Params.linkedin }}" class="social-links__entry" target="_blank" aria-label="LinkedIn">
 <i class="fa fa-linkedin"></i>
 </a>
 {{ end }}
 </ul>
+</div>
 </header>

@@ -1,26 +1,22 @@
 {{ define "main" }}
-<h1 class="page-title">
-<div class="page-title__text">{{ .Title }}</div>
-{{ if .Params.subtitle }}<div class="page-title__subtitle">{{ .Params.subtitle }}</div>{{ end }}
-</h1>
+<div class="page-header">
+<h1>{{ .Title }}</h1>
+{{ if .Params.subtitle }}<p class="subtitle">{{ .Params.subtitle }}</p>{{ end }}
+</div>
 
 {{ .Content }}
 
-<ul class="list-posts">
+<ul class="blog-list">
 {{ range .Pages.ByDate.Reverse }}
-<li class="post-teaser">
-<a href="{{ .RelPermalink }}">
-<span class="post-teaser__title">{{ .Title }}</span>
-<span class="post-teaser__date">{{ .Date.Format "02 January 2006" }}</span>
+<li>
+<a href="{{ .RelPermalink }}" class="blog-card">
+<div class="blog-card-title">{{ .Title }}</div>
+<div class="blog-card-meta">
+<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+</div>
+{{ with .Description }}<div class="blog-card-desc">{{ . }}</div>{{ end }}
 </a>
 </li>
 {{ end }}
 </ul>
-
-<div class="about">
-<div class="about__devider">*****</div>
-<div class="about__text">
-<br>Courtesy ☕ Pudhina theme by Knhash 🛠️
-</div>
-</div>
 {{ end }}

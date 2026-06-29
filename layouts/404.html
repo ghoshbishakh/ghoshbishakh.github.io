@@ -1,7 +1,9 @@
 {{ define "main" }}
-<h2 class="go-home">
-I suggest you get <a href="{{ "/" | relURL }}">home</a>, it's 404 and it's getting dark!
-</h2>
+<div class="error-page">
+<div class="error-code">404</div>
+<p class="error-message">Page not found. It's getting dark out here!</p>
+<a href="{{ "/" | relURL }}" class="error-link">Go home</a>
+</div>
 
-<script> document.getElementsByTagName('body')[0].classList.add('glitch'); </script>
+<script>document.getElementsByTagName('body')[0].classList.add('glitch');</script>
 {{ end }}

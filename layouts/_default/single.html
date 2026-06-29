@@ -1,15 +1,7 @@
 {{ define "main" }}
-<h1 class="page-title">
-<div class="page-title__text">{{ .Title }}</div>
-{{ if .Params.subtitle }}<div class="page-title__subtitle">{{ .Params.subtitle }}</div>{{ end }}
-</h1>
-
+<article class="page-content">
+<h1>{{ .Title }}</h1>
+{{ if .Params.subtitle }}<p class="hero-subtitle" style="margin-bottom: 32px;">{{ .Params.subtitle }}</p>{{ end }}
 {{ .Content }}
-
-<div class="about">
-<div class="about__devider">*****</div>
-<div class="about__text">
-<br>Courtesy ☕ Pudhina theme by Knhash 🛠️
-</div>
-</div>
+</article>
 {{ end }}

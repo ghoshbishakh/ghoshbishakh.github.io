@@ -1,15 +1,20 @@
 {{ define "main" }}
-<h1 class="page-title">
-<div class="page-title__text">{{ .Title }}</div>
-{{ if .Params.subtitle }}<div class="page-title__subtitle">{{ .Params.subtitle }}</div>{{ end }}
-</h1>
-
-{{ .Content }}
-
-<div class="about">
-<div class="about__devider">*****</div>
-<div class="about__text">
-<br>Courtesy ☕ Pudhina theme by Knhash 🛠️
+<div class="hero">
+<img src="/assets/img/dp3.jpg" alt="{{ .Title }}" class="hero-avatar">
+<h1>{{ .Title }}</h1>
+{{ if .Params.subtitle }}<p class="hero-subtitle">{{ .Params.subtitle }}</p>{{ end }}
+<div class="hero-links">
+<a href="https://scholar.google.co.in/citations?user=5kBZSVkAAAAJ&hl=en" target="_blank">Google Scholar</a>
+<a href="https://dblp.uni-trier.de/pers/hd/g/Ghosh:Bishakh_Chandra" target="_blank">DBLP</a>
+<a href="https://github.com/ghoshbishakh" target="_blank">GitHub</a>
 </div>
+</div>
+
+<div class="hero-download">
+<a href="/assets/resume.pdf"><i class="fa fa-download"></i> Download as PDF</a>
+</div>
+
+<div class="page-content">
+{{ .Content }}
 </div>
 {{ end }}
