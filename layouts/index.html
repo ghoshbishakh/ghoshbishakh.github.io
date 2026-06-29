@@ -1,6 +1,5 @@
 {{ define "main" }}
 <div class="hero">
-{{ partial "hero-animation.html" . }}
 <div class="hero-content">
 <img src="/assets/img/dp3.jpg" alt="{{ .Title }}" class="hero-avatar">
 <h1>{{ .Title }}</h1>
@@ -11,6 +10,7 @@
 <a href="https://github.com/ghoshbishakh" target="_blank">GitHub</a>
 </div>
 </div>
+{{ partial "hero-animation.html" . }}
 </div>
 
 <div class="hero-download">

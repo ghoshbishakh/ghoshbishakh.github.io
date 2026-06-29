@@ -1,7 +1,7 @@
 <div id="hero-canvas"></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 <script>
-(function() {
+document.addEventListener('DOMContentLoaded', function() {
   const container = document.getElementById('hero-canvas');
   const hero = document.querySelector('.hero');
   if (!container || !hero) return;
@@ -47,16 +47,14 @@
   scene.add(particles);
 
   let mouseX = 0, mouseY = 0;
-  document.addEventListener('mousemove', (e) => {
+  document.addEventListener('mousemove', function(e) {
     const rect = hero.getBoundingClientRect();
     mouseX = ((e.clientX - rect.left) / rect.width) * 2 - 1;
     mouseY = -((e.clientY - rect.top) / rect.height) * 2 + 1;
   });
 
-  let time = 0;
   function animate() {
     requestAnimationFrame(animate);
-    time += 0.002;
     particles.rotation.x += 0.0003;
     particles.rotation.y += 0.0005;
     particles.position.x += (mouseX * 2 - particles.position.x) * 0.02;
@@ -65,12 +63,12 @@
   }
   animate();
 
-  window.addEventListener('resize', () => {
+  window.addEventListener('resize', function() {
     const w = hero.offsetWidth;
     const h = hero.offsetHeight;
     camera.aspect = w / h;
     camera.updateProjectionMatrix();
     renderer.setSize(w, h);
   });
-})();
+});
 </script>
